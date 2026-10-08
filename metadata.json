@@ -1,0 +1,6 @@
+{
+  "name": "Geo Digital OS",
+  "description": "Central digital operating system for Geo Digital tender bidding, USHA sewing machine supply chain, inventory, dispatches, accounts, and AI workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
